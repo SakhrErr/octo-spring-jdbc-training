@@ -37,6 +37,7 @@ public class CLI {
         break;
       }
     }
+
   }
 
   private void evaluate(final String cmd) {
